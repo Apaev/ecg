@@ -1,0 +1,11 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://git.promedweb.ru/rtmis/lpmecg/-/tree/master/exe",
+      "changelog": "Тест 1",
+      "mandatory": true
+    }
+  }
+}
