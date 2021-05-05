@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/Apaev/ecg/main/YesItWorks.jpg",
+      "download-url": "https://raw.githubusercontent.com/Apaev/ecg/master/ECG.exe",
       "changelog": "Тест 1",
       "mandatory": true
     }
